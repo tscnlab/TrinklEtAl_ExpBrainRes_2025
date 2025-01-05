@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+authors:
+  - family-names: "Trinkl"
+    given-names: "Josef"
+  - family-names: "Bickerstaff"
+    given-names: "Lucien"
+  - family-names: "Munkwitz"
+    given-names: "Stephan"
+  - family-names: "Spitschan"
+    given-names: "Manuel"
+title: "Stimulus conditions eliciting sneezing in response to bright light"
+version: "1.0"
+date-released: "2024-01-01"
+published-in: "Experimental Brain Research"
+doi: "10.1007/s00221-024-06988-4"
+url: "https://doi.org/10.1007/s00221-024-06988-4"
